@@ -1,0 +1,17 @@
+body {
+    background: #eec881;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    opacity: 0.9;
+}
+
+a {
+    color: #269599;
+    text-decoration: none;
+}
